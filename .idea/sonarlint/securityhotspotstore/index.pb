@@ -13,3 +13,7 @@ R
 "contracts/design-registration.clar,1/f/1fa9402057e7da2e146d9664039a17b8e319d2c9
 Q
 !tests/design-registration.test.ts,0/b/0bb3b5b007467af4befea5787086d0e55d938751
+P
+ contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
+O
+tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
